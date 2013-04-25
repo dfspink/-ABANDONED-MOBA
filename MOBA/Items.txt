@@ -1,0 +1,65 @@
+Crushing Claws
+0
+1
+0
+150
+Duck Boots
+0
+0
+1
+150
+Mark of the Novice
+1
+0
+0
+150
+Minor Totem
+1
+1
+1
+500
+Major Totem
+3
+3
+3
+1500
+Bolstering Armband
+0
+2
+0
+400
+Fleetfeet
+0
+0
+2
+400
+Apprentice's Robe
+2
+0
+0
+400
+Pretender's Crown
+2
+2
+2
+1000
+Blessed Orb
+5
+5
+5
+2500
+Mighty Blade
+0
+5
+0
+850
+Quickblades
+0
+0
+5
+850
+Puzzlebox
+5
+0
+0
+850 
